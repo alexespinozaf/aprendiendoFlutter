@@ -44,6 +44,9 @@ flutter:
   assets:
   - assets/fondo.jpg
   - assets/people.jpg
+  - assets/img1.jpg
+  - assets/img2.jpg
+  - assets/img3.jpg
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
